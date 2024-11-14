@@ -2,7 +2,8 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un passionné de **hacking éthique** et de **cybersécurité**.
 
-![Hacking Matrix](https://media.giphy.com/media/26gsjCZpYhSuNOZ2w/giphy.gif)
+![Hacker Image](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Hacker_icon.svg/1024px-Hacker_icon.svg.png)
+
 
 Suivez-moi sur [LinkedIn](https://www.linkedin.com/in/moncef-diraa).
 
