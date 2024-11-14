@@ -2,9 +2,7 @@
 
 Bienvenue sur mon profil GitHub ! Je suis un passionné de **hacking éthique** et de **cybersécurité**.
 
-<img  alt="hacking" width="500" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif">
-
-
+<center><img  alt="hacking" width="500" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-174.gif"></center>
 Suivez-moi sur [LinkedIn](https://www.linkedin.com/in/moncef-diraa).
 
 Je partage des projets sur la sécurité informatique, les tests d'intrusion, et des conseils sur la cybersécurité.
